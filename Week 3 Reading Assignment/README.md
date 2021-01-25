@@ -1,0 +1,5 @@
+# Week 3 Reading Assignment 
+
+## Emily DiPressi 
+
+My initial reaction to this video and the Missing Maps project, was how widespread and encompassing the usage of maps is. I had no idea that maps/mapping could be used in such a wide range of areas. The use of this data in humanitarian crises is astonishing, tracing people and then finding the areas to place hand washing stations in a few African countries to prevent the spread of disease, is not how I would initially think maps would be used, but it is an exceptional way to use them. The second aspect of this presentation that spoke to me was the usage of Open Street Map in daily life. I am an avid user of Etsy to buy small business products and always assumed that the maps used to track were from Google, that is if I had even given it a second thought, also Uber, I would have expected that site to use Google Maps as well. It was shocking and interesting for me to learn that the maps I am seeing often, in my regular practice are from this smaller company, not the corporate conglomerate, Google. 
